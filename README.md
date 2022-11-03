@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @MedusaThorn
 - 👀 I’m interested in technologies and educational design
-- 🌱 I’m currently learning wed Development
+- 🌱 I’m currently learning Web Development
 - 💞️ I’m looking to collaborate on Wed design projects
 - 📫 How to reach me : here
 
