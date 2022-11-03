@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @MedusaThorn
-- 👀 I’m interested in technologies and educationa design
-- 🌱 I’m currently learning CS50 and instructional Design
-- 💞️ I’m looking to collaborate on instructional design projects
+- 👀 I’m interested in technologies and educational design
+- 🌱 I’m currently learning wed Development
+- 💞️ I’m looking to collaborate on Wed design projects
 - 📫 How to reach me : here
 
 <!---
